@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mov</string>
+    <string name="lewati_perkenalan">LEWATI PERKENALAN</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="tittle_1">" Lebih mudah untuk mengetahui
+        film yang sedang tampil"</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="tittle_2">" Tidak khawatir ketinggalan
+update film terbaru"</string>
+    <string name="tittle_3">" GUNAKAN E-WALLET
+TRANSAKSI TIKET NONTON"</string>
+    <string name="memulai">MEMULAI</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="photo">PHOTO</string>
+    <string name="welcome">WELCOME,</string>
+    <string name="upload">UPLOAD NANTI</string>
+    <string name="tittle_4">"TIKET BERHASIL DI BELI
+DAN SELAMAT MENONTON"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
